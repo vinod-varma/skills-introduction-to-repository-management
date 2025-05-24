@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @vinod-varma
+/src/backend/database.py      @vinod-varma
+/src/backend/routers/auth.py  @vinod-varma
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @vinod-varma
